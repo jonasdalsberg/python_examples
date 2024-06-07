@@ -3,7 +3,7 @@
 ### This is a Python script I wrote during a DTU course on algorithms in bioinformatics
 ### It is an attempt at writing a Naïve Bayes classifier from scratch
 ### (as opposed to simply importing pre-written libraries)
-### Code written by Jonas Dalsberg Jørgensen in May 2023
+### Code written by Jonas Dalsberg Jørgensen in June 2022
 
 # Load modules
 import numpy as np
