@@ -2,7 +2,7 @@
 
 ### Normalisation of metagenomics data from different cheeses
 ### For a project in a course on next generation sequencing (NGS) at DTU
-### Code written in January 2022
+### Code written by Jonas Dalsberg Jørgensen in January 2022
 
 import math
 
